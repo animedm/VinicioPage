@@ -1,0 +1,16 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "Your connection has never been faster. Get hold of our products and experience the power!.",
+  "section": [
+    {
+      "title": "Why us?",
+      "content": "Because we offer more than just products; we provide experiences. With unparalleled speeds, cutting-edge technology, and rigorously tested equipment.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Guarantee?",
+      "content": "Our products come with a guarantee you can trust. We are so confident in the quality and performance we deliver that each purchase is backed by a comprehensive warranty.",
+      "icon": "notes.svg"
+    }
+  ]
+}
